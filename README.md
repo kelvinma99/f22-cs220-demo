@@ -14,6 +14,9 @@ Here is some code:
 using namespace std;
 int main()
 {
-  cout << "Hellow world!";
+  cout << "Hellow world!" <<endl;
   return 0;
 }
+...
+  
+## Another sub heading
